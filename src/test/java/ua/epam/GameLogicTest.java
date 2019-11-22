@@ -1,8 +1,8 @@
-import org.junit.Test;
-import ua.epam.Elements;
-import ua.epam.GameLogic;
+package ua.epam;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class GameLogicTest {
     GameLogic gameLogic = new GameLogic();
